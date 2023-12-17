@@ -23,3 +23,9 @@
   - [x] Pre-fab
   - [x] [Input system](com.unity.inputsystem)
   - [ ] Custom input with C# code
+  - [] Rigidbody 2D
+  - [] Box Colider 2D
+    - ![colider](docs/colider.png)
+- dotnet install macos
+  - [x] brew install --cask dotnet
+  - [x] [install sdk 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
