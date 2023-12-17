@@ -58,6 +58,7 @@
     },
     "dotnet.defaultSolution": "2d-game-101-urp.sln",
     "cSpell.words": [
+        "Raycast",
         "Rigidbody",
         "Tilemap"
     ]
