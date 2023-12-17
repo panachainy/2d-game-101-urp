@@ -23,4 +23,3 @@
   - [x] Pre-fab
   - [x] [Input system](com.unity.inputsystem)
   - [ ] Custom input with C# code
-
