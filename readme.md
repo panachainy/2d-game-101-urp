@@ -8,3 +8,18 @@
 ## Resources
 
 - [kenney](https://www.kenney.nl)
+
+## What's I learn
+
+- Unity editor
+- Unity 2D
+- Assets
+  - [x] Slice TileMap
+  - [x] TileMap
+- Grid map
+  - [x] Map layer
+  - [x] Tilemap Collider 2D
+- Player
+  - [x] Pre-fab
+  - [x] [Input system](com.unity.inputsystem)
+
